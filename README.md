@@ -99,7 +99,7 @@ It is listed in `.gitignore` and should never be committed.
   only. They do not represent legal jurisdiction or Tribal self-definition.
 - **Used in:** Notebooks 02–08
 
-## Data Governance
+## Data Sovereignty and Governance
 All data in this tutorial describes Indigenous lands and environments.
 The frameworks that guide responsible use are:
 
@@ -123,5 +123,8 @@ advanced session, then 08 as a capstone project.
 Estimated time: 2–3 hours per notebook for a classroom session, or self-paced.
 
 ## Acknowledgments
-This work is part of a broader effort to build earth data science capacity at Tribal colleges and universities.
-Data governance frameworks referenced: OCAP®, CARE Principles, FAIR Principles, IEEE 2890-2025.
+This work is part of a broader effort to build
+earth data science capacity at Tribal colleges and universities.
+
+Data governance frameworks referenced: OCAP®, CARE Principles, FAIR Principles,
+IEEE 2890-2025.
